@@ -54,9 +54,9 @@ def debt_repayment_time(income, debt, annual_interest_rate) -> None:
     """You are given three numbers: income, debt, and annual interest rate on the debt.
     Your task is to calculate how long it will take to pay off the debt given that you pay 10% of your income each month.
     For example:
-    debt_repayment_time(5000, 1000, 5) => 3
-    debt_repayment_time(5000, 1000, 5) => 21
-    debt_repayment_time(20000, 50000, 10) => 29
+    debt_repayment_time(5000, 1000, 5) => 11
+    debt_repayment_time(5000, 1000, 5) => 0
+    debt_repayment_time(20000, 50000, 10) => 100
     """
 
 
