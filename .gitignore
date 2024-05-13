@@ -1,2 +1,3 @@
 .env
+*.log
 local_cache
