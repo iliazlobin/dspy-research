@@ -20,3 +20,4 @@ pip install dspy
 * https://dspy-docs.vercel.app/docs/building-blocks/optimizers
 * https://github.com/stanfordnlp/dspy/blob/main/examples/agents/multi_agent.ipynb
 * https://colab.research.google.com/github/stanfordnlp/dspy/blob/main/intro.ipynb
+* https://dspy-docs.vercel.app/docs/building-blocks/assertions
